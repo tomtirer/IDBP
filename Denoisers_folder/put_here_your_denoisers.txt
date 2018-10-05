@@ -1,0 +1,1 @@
+In this folder you may put the code of the denoisers that you use.
