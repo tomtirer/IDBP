@@ -1,5 +1,5 @@
 # IDBP
-Image Restoration by Iterative Denoising and Backward Projections
+Image Restoration by Iterative Denoising and Backward Projections (https://arxiv.org/pdf/1710.06647.pdf, accepted to TIP, 2018)
 
 # Algorithm
 <img src="readme_figs/algorithm.png" width="600px"/> 
